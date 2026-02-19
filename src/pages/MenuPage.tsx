@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useState } from "react";
-import foodImg from "@/assets/cibo2.jpg";
+import foodImg from "@/assets/new-food-2.jpg";
 import { useLanguage } from "@/i18n/LanguageContext";
 
 type MenuItem = { name: string; desc: string; price: string };

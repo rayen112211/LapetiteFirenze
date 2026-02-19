@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { MapPin, Phone, Clock } from "lucide-react";
-import aboutImg from "@/assets/about-interior.jpg";
+import aboutImg from "@/assets/new-interior.jpg";
 import locationImg from "@/assets/location.jpg";
 import { useLanguage } from "@/i18n/LanguageContext";
 

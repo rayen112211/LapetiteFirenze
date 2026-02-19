@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight, Star } from "lucide-react";
-import heroImg from "@/assets/locale-1.jpg";
-import foodImg from "@/assets/cibo2.jpg";
+import heroImg from "@/assets/new-hero.jpg";
+import foodImg from "@/assets/new-food-1.jpg";
 import cocktailImg from "@/assets/cocktail1.jpg";
 import locationImg from "@/assets/LaPetiteFirenze-980x1470.jpg";
 import SectionHeading from "@/components/SectionHeading";
