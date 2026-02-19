@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { CheckCircle } from "lucide-react";
 import { z } from "zod";
-import heroImg from "@/assets/locale-1.jpg";
+import heroImg from "@/assets/new-interior.jpg";
 import { useLanguage } from "@/i18n/LanguageContext";
 
 const partySizes = ["1-2", "2-4", "4-6", "6-8", "8+"];

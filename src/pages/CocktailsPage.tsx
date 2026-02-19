@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import cocktailImg from "@/assets/cocktail1.jpg";
+import cocktailImg from "@/assets/638326120_18381234280092097_422838019269367709_n.jpeg";
 import { useLanguage } from "@/i18n/LanguageContext";
 
 type CocktailItem = { name: string; desc: string; price: string; vol?: string };
